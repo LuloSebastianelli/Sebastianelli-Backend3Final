@@ -4,7 +4,7 @@ API REST completa para un sistema de adopción de mascotas desarrollada con Node
 
 ## Imagen Dockerhub
 
-https://hub.docker.com/r/luloh/sebastianelli-backend3final
+https://hub.docker.com/r/luloh/sebastianellibackend3final
 
 ## 📋 Tabla de Contenidos
 
