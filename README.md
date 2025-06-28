@@ -316,5 +316,3 @@ La documentación interactiva está disponible en:
 ---
 
 ⭐ ¡No olvides dar una estrella al proyecto si te fue útil!
-```
-
